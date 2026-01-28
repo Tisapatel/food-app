@@ -117,16 +117,8 @@ vercel
 
 ## 📸 Screenshots
 
-```md
-## 📸 Screenshots
-
-![Home Page](public/screenshots/1.png)
-![Menu Page](public/screenshots/2.png)
-![Home Page](public/screenshots/3.png)
-![Home Page](public/screenshots/4.png)
-![Home Page](public/screenshots/5.png)
-![Home Page](public/screenshots/6.png)
-![Footer Page](public/screenshots/7.png)
+### Output
+![View output](/public/screenshots/output.png)
 
 ---
 
