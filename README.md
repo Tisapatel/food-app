@@ -120,13 +120,14 @@ vercel
 > Add your application screenshots here
 
 ```md
-![Home Page](screenshots/1.png)
-![Menu Page](screenshots/2.png)
-![Home Page](screenshots/3.png)
-![Home Page](screenshots/4.png)
-![Home Page](screenshots/5.png)
-![Home Page](screenshots/6.png)
-![Footer Page](screenshots/7.png)
+![Home Page](public/screenshots/1.png)
+![Menu Page](public/screenshots/2.png)
+![Home Page](public/screenshots/3.png)
+![Home Page](public/screenshots/4.png)
+![Home Page](public/screenshots/5.png)
+![Home Page](public/screenshots/6.png)
+![Footer Page](public/screenshots/7.png)
+
 ```
 
 ---
