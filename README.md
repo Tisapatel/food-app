@@ -117,7 +117,7 @@ vercel
 
 ## 📸 Screenshots
 
-<<<<<<< HEAD
+
 ### Output
 ![View output](/public/screenshots/output.png)
 =======
